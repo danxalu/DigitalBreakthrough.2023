@@ -1,0 +1,14 @@
+easyocr
+pandas
+pytesseract
+numpy 
+matplotlib 
+opencv-python 
+pillow
+tesseract-ocr
+tesseract-ocr-rus
+numpy
+pylab
+PIL
+cv2
+os

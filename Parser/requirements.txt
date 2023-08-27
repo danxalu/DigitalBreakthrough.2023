@@ -1,0 +1,8 @@
+bs4
+openpyxl
+pandas
+requests
+json
+aiohttp
+asyncio
+csv
